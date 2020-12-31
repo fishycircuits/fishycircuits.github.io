@@ -1,10 +1,8 @@
-&nbsp;
-
 This is a working 5-story elevator. It is 3 feet tall. We put a lot of work into this.
 
 Let's cut to the chase ... here's how it works!
 
-https://youtu.be/hPx-92t-4RI
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hPx-92t-4RI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Quick links:
 <ul>
